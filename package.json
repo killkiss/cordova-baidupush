@@ -11,12 +11,7 @@
     "android",
     "ios"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=4.0.0"
-    }
-  ],
+  
   "Author": {
     "name": "Samily Wang",
     "mail": "samilywang@icloud.com"
