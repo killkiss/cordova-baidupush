@@ -9,9 +9,9 @@
         This plugin accept baidupush messages
     </description>
     <license>MIT</license>
-    <engines>
+    <!--<engines>
         <engine name="cordova" version=">=4.0.0" />
-    </engines>
+    </engines>-->
 
     <js-module src="www/baidupush.js" name="baidupush">
         <clobbers target="baidupush" />
